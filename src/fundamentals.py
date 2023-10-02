@@ -1,11 +1,11 @@
 # variables and data types
-    # string concatenation: "a" + "b"
-    # f-string interpolation: f"{a}{b}"
+    # string concatenation: "string1" + "string2"
+    # f-string interpolation: f"{string1}{string2}"
 
 # conditional statements
 
-# loops
-    # for loop
-    # while loop
+# loops and sequences
+    # for loops
+    # while loops
 
 # functions
